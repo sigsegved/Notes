@@ -28,3 +28,8 @@
 * Demonstrate strong mentorship and setting up processes to bring up the best practices to the team as well as help them grow
 * Have strong examples of working with hostile/not-so-great people and how you handled it
 * How do you provide and take feedback, both constructive and critial feedback. 
+
+
+--------
+
+
